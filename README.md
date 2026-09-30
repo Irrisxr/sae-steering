@@ -11,8 +11,8 @@
 
 | ФИО | GitHub |
 |---|---|
-| Савченков Матвей Дмитриевич | [@username](https://github.com/Irrisxr) |
-| Хатуев Амаль Сафарбиевич | [@Irrisxr](https://github.com/tabyretochca) |
+| Савченков Матвей Дмитриевич | [@Irrisxr](https://github.com/Irrisxr) |
+| Хатуев Амаль Сафарбиевич | [@tabyretochca](https://github.com/tabyretochca) |
 | Прохоров Михаил Михаилович | [@Mexae1](https://github.com/Mexae1) | 
 
 ## Куратор
